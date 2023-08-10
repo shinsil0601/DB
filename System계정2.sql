@@ -1,0 +1,1 @@
+GRANT CREATE VIEW TO c##shinsil;
